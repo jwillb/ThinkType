@@ -20,3 +20,6 @@ You will need:
 - ```Escape```
 - ```Space```    
 More may come in the future.
+
+### Current Issues:
+- After a while, the script seems to stop functioning. This may be isolated to my machine, but it seems like the python script is shut down after a while causing the LED to be permanently shut off, unless you directly write to the ```io``` file in ```/sys/debug/ec/ec0/```.
