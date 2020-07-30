@@ -1,6 +1,6 @@
 # ThinkType
 
-ThinkType is a riciduclously simple Python script that allows control of the LED light on the back of most ThinkPad laptops running Linux.
+ThinkType is a ridiculously simple Python script that allows control of the LED light on the back of most ThinkPad laptops running Linux.
 
 ## Prerequisites
 You will need:
